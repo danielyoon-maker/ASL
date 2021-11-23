@@ -1,4 +1,4 @@
-# ASL Alphabet real=-time interpretatino
+# ASL Alphabet real time interpretatino
 
 Basic CNN which attempts to classify images in real time. 
 
